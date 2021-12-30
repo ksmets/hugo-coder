@@ -43,6 +43,10 @@ p {
   margin: 2rem 0 2rem 0;
 }
 
+.footnotes p {
+  margin: 0rem 0 0rem 0;
+}
+
 h1,
 h2,
 h3,
@@ -186,11 +190,12 @@ blockquote {
 
 th,
 td {
-  padding: 1.6rem;
+  padding: 0.8em;
 }
 
 table {
   border-collapse: collapse;
+  margin: auto;
 }
 
 table td,
